@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Evaluacion2Moviles</string>
+    <string name="codigo">RV16-I04-001</string>
+    <string name="Datos">Mis datos</string>
+    <string name="nombre">Johana Abigail Ramirez Vides</string>
+    <string name="correlativo">02</string>
+    <string name="ac">AC</string>
+    <string name="del">DEL</string>
+    <string name="mas">+</string>
+    <string name="menos">-</string>
+    <string name="siete">7</string>
+    <string name="ocho">8</string>
+    <string name="nueve">9</string>
+    <string name="div">/</string>
+    <string name="cuatro">4</string>
+    <string name="cinco">5</string>
+    <string name="seis">6</string>
+    <string name="multi">x</string>
+    <string name="uno">1</string>
+    <string name="dos">2</string>
+    <string name="tres">3</string>
+    <string name="igual">=</string>
+    <string name="cero">0</string>
+    <string name="calcu">Calculadora</string>
+    <string name="prueba1">5+5</string>
+    <string name="prueba2">10</string>
+    <string name="parentesis1">(</string>
+    <string name="parentesis2">)</string>
+    <string name="punto">.</string>
+
+</resources>
